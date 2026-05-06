@@ -1,0 +1,81 @@
+Hello,
+Thank you for sharing your key business questions—these helped guide the analysis toward insights that are most relevant for your growth and expansion strategy.
+
+Data Cleaning & Preparation
+
+Before beginning the analysis, I ensured the dataset was accurate and reliable.
+I removed records where the quantity was less than 1 and where the unit price was below zero, as these represented returns or data entry errors.
+I also created a revenue metric by multiplying quantity and unit price.
+This ensured that all insights presented are based on clean and meaningful data.
+
+Question 1: Monthly Revenue Trend
+
+The first analysis focuses on the monthly revenue trend for 2011 to identify seasonality.
+
+The data shows that revenue remains relatively stable in the first half of the year, averaging between approximately 0.5 to 0.75 million.
+However, from September onwards, there is a significant upward trend, with revenue reaching a peak of around 1.5 million in November.
+
+December shows a decline, likely due to incomplete data for that month.
+
+Insight:
+
+This clearly indicates strong seasonality, with peak sales occurring in the final quarter of the year.
+
+Recommendation:
+
+I recommend aligning inventory planning, staffing, and marketing campaigns with these peak months to maximize revenue opportunities.
+
+Question 2: Top 10 Countries (Excluding UK)
+
+The second analysis focuses on the top 10 countries contributing to revenue, excluding the United Kingdom to identify expansion opportunities.
+
+The data shows that countries such as Spain, Switzerland, and Sweden are among the top contributors in terms of revenue.
+
+Additionally, we can observe differences between revenue and quantity sold—some countries generate higher revenue with relatively lower quantities, suggesting higher-value transactions.
+
+Insight:
+
+Revenue is concentrated in a few key international markets, with varying purchasing behaviors across countries.
+
+Recommendation:
+
+The company should prioritize expansion and targeted marketing efforts in high-performing countries while exploring strategies to increase average order value in high-volume markets.
+
+Question 3: Top Customers by Revenue
+
+The third analysis focuses on the top customers contributing to revenue.
+
+The data shows that Customer 18283 generated approximately 2,046 in revenue, followed closely by Customer 18287 with 1,837.
+However, there is a significant drop after these top two customers, with the remaining customers contributing substantially lower amounts.
+
+Insight:
+
+This indicates that a small number of customers contribute a disproportionately high share of revenue.
+
+Recommendation:
+
+To mitigate risk and ensure continued growth, I recommend focusing on customer retention strategies such as loyalty programs, personalized marketing, and premium customer service for these high-value customers.
+
+Question 4: Demand by Region
+
+The final analysis examines demand across different countries using a geographic visualization, excluding the United Kingdom.
+
+The map highlights that demand is concentrated in specific regions, particularly within Europe, while other regions show relatively lower levels of activity.
+
+Insight:
+
+There is a strong regional concentration of demand, with several high-performing markets and many underpenetrated regions.
+
+Recommendation:
+
+The company should focus expansion efforts in high-demand regions while also exploring new markets with growth potential to diversify revenue streams.
+
+Executive Summary
+
+In summary, the analysis reveals three key findings:
+
+First, the business experiences strong seasonal trends, with peak revenue occurring in the final quarter of the year.
+Second, revenue is concentrated in a limited number of countries, presenting clear opportunities for targeted expansion.
+Third, a small group of customers contributes significantly to overall revenue, highlighting both an opportunity for retention and a potential risk.
+
+By focusing on high-performing markets, strengthening customer relationships, and preparing for seasonal demand, the company is well-positioned to drive sustainable growth and expand successfully.
